@@ -2,19 +2,236 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>coding</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-08T14:34:42.130Z</updated>
+  <updated>2021-02-09T12:53:50.085Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>husky105</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设计模式之原型模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-yuan-xing-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-yuan-xing-mo-shi/</id>
+    <published>2021-02-09T12:53:17.000Z</published>
+    <updated>2021-02-09T12:53:50.085Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;原型模式&quot;&gt;&lt;a href=&quot;#原型模式&quot; class=&quot;headerlink&quot; title=&quot;原型模式&quot;&gt;&lt;/a&gt;原型模式&lt;/h1&gt;&lt;h2 id=&quot;1、问题引入&quot;&gt;&lt;a href=&quot;#1、问题引入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="原型模式" scheme="http://example.com/tags/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之工厂模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-gong-han-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-gong-han-mo-shi/</id>
+    <published>2021-02-09T12:52:06.000Z</published>
+    <updated>2021-02-09T12:52:48.673Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;工厂模式&quot;&gt;&lt;a href=&quot;#工厂模式&quot; class=&quot;headerlink&quot; title=&quot;工厂模式&quot;&gt;&lt;/a&gt;工厂模式&lt;/h1&gt;&lt;h2 id=&quot;1、问题引入&quot;&gt;&lt;a href=&quot;#1、问题引入&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="工厂模式" scheme="http://example.com/tags/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之装饰者模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-zhuang-shi-zhe-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-zhuang-shi-zhe-mo-shi/</id>
+    <published>2021-02-09T12:51:22.000Z</published>
+    <updated>2021-02-09T12:51:46.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;装饰者模式&quot;&gt;&lt;a href=&quot;#装饰者模式&quot; class=&quot;headerlink&quot; title=&quot;装饰者模式&quot;&gt;&lt;/a&gt;装饰者模式&lt;/h1&gt;&lt;h2 id=&quot;1、问题引入&quot;&gt;&lt;a href=&quot;#1、问题引入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="装饰者模式" scheme="http://example.com/tags/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之建造者模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-jian-zao-zhe-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-jian-zao-zhe-mo-shi/</id>
+    <published>2021-02-09T12:50:06.000Z</published>
+    <updated>2021-02-09T12:50:46.520Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;建造者模式&quot;&gt;&lt;a href=&quot;#建造者模式&quot; class=&quot;headerlink&quot; title=&quot;建造者模式&quot;&gt;&lt;/a&gt;建造者模式&lt;/h1&gt;&lt;h2 id=&quot;1、问题引入&quot;&gt;&lt;a href=&quot;#1、问题引入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="建造者模式" scheme="http://example.com/tags/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之桥接模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-qiao-jie-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-qiao-jie-mo-shi/</id>
+    <published>2021-02-09T12:49:09.000Z</published>
+    <updated>2021-02-09T12:49:41.496Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;桥接模式&quot;&gt;&lt;a href=&quot;#桥接模式&quot; class=&quot;headerlink&quot; title=&quot;桥接模式&quot;&gt;&lt;/a&gt;桥接模式&lt;/h1&gt;&lt;h2 id=&quot;1、问题引入&quot;&gt;&lt;a href=&quot;#1、问题引入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="桥接模式" scheme="http://example.com/categories/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="桥接模式" scheme="http://example.com/tags/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之适配器模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-gua-pei-qi-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-gua-pei-qi-mo-shi/</id>
+    <published>2021-02-09T12:46:46.000Z</published>
+    <updated>2021-02-09T12:47:18.062Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;适配器模式&quot;&gt;&lt;a href=&quot;#适配器模式&quot; class=&quot;headerlink&quot; title=&quot;适配器模式&quot;&gt;&lt;/a&gt;适配器模式&lt;/h1&gt;&lt;h2 id=&quot;1、生活中的适配器例子&quot;&gt;&lt;a href=&quot;#1、生活中的适配器例子&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="适配器模式" scheme="http://example.com/tags/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式的七大原则</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-de-qi-da-yuan-ze/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-de-qi-da-yuan-ze/</id>
+    <published>2021-02-09T12:19:48.000Z</published>
+    <updated>2021-02-09T12:55:33.693Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;设计模式的七大原则&quot;&gt;&lt;a href=&quot;#设计模式的七大原则&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式之单例模式</title>
+    <link href="http://example.com/2021/02/09/she-ji-mo-shi-zhi-dan-li-mo-shi/"/>
+    <id>http://example.com/2021/02/09/she-ji-mo-shi-zhi-dan-li-mo-shi/</id>
+    <published>2021-02-09T12:15:16.000Z</published>
+    <updated>2021-02-09T12:45:22.793Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;单例模式&quot;&gt;&lt;a href=&quot;#单例模式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    <category term="单例模式" scheme="http://example.com/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>我的博客13</title>
@@ -166,53 +383,6 @@
     <published>2021-02-08T14:28:34.000Z</published>
     <updated>2021-02-08T14:28:34.497Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的博客1</title>
-    <link href="http://example.com/2021/02/08/wo-de-bo-ke-1/"/>
-    <id>http://example.com/2021/02/08/wo-de-bo-ke-1/</id>
-    <published>2021-02-08T13:57:45.000Z</published>
-    <updated>2021-02-08T13:57:45.512Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>article title</title>
-    <link href="http://example.com/2021/02/08/article-title/"/>
-    <id>http://example.com/2021/02/08/article-title/</id>
-    <published>2021-02-08T13:10:20.000Z</published>
-    <updated>2021-02-08T13:10:20.641Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/02/08/hello-world/"/>
-    <id>http://example.com/2021/02/08/hello-world/</id>
-    <published>2021-02-08T13:04:05.179Z</published>
-    <updated>2021-02-08T13:04:05.179Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
     
     
     
